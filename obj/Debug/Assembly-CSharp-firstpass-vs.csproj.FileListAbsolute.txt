@@ -1,0 +1,10 @@
+D:\Unity3dPro\first\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity3dPro\first\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity3dPro\first\Temp\bin\Debug\UnityEditor.dll
+D:\Unity3dPro\first\Temp\bin\Debug\UnityEngine.dll
+D:\Unity3dPro\first\Temp\bin\Debug\Mono.Cecil.dll
+D:\Unity3dPro\first\Temp\bin\Debug\nunit.framework.dll
+D:\Unity3dPro\first\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity3dPro\first\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Unity3dPro\first\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity3dPro\first\obj\Debug\Assembly-CSharp-firstpass.pdb
